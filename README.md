@@ -33,15 +33,8 @@ See https://github.com/data2health/project-repo-template/tree/master/team.md
 
 
 ## Milestones 
-1- Convening
 
-2- Tool Refinement
-
-3- Tool Pilot
-
-4- OMOP Academic Paper
-
-5- Quality Control of Tool
+View the project milestones [here](https://github.com/data2health/data-quality/milestones)
 
 
 ## Evaluation
