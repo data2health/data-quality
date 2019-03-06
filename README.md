@@ -53,4 +53,3 @@ Team collabortive working document can be found [here](https://docs.google.com/d
 ## Slack channel
 [#data-quality](https://cd2h.slack.com/messages/CG92VLQFP) is accessible to participants that [have been onboarded](bit.ly/cd2h-onboarding-form)
 
-cd2h.slack.com/#data-quality
