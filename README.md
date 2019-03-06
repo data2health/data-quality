@@ -51,6 +51,6 @@ View the engagment component [here](https://github.com/data2health/data-quality/
 Team collabortive working document can be found [here](https://docs.google.com/document/d/1vsJbBnBFe_RPMTt9otbn4mqgf4pUgWjqswXRnTKkyds/edit) 
 
 ## Slack channel
-#data-quality (https://cd2h.slack.com/messages/CG92VLQFP) is accessible to participants that [have been onboarded](bit.ly/cd2h-onboarding-form)
+[#data-quality](https://cd2h.slack.com/messages/CG92VLQFP) is accessible to participants that [have been onboarded](bit.ly/cd2h-onboarding-form)
 
 cd2h.slack.com/#data-quality
