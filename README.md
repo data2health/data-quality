@@ -25,10 +25,10 @@ Sean Mooney (@sdmooney) | UW
 Team members can be found [here](https://github.com/data2health/data-quality/blob/master/Team.md)
 
 ## Repositories
- Originally DQe-c Tool
+ Originally Develop DQe-c Tool<br>
 https://github.com/data2health/DQe-c
 
- Ongoing Re-Engineering of DQe-c Tool
+ Ongoing Re-Engineering of DQe-c Tool<br>
 https://github.com/data2health/DQe-c-v2
 
 ## Deliverables
