@@ -22,9 +22,7 @@ Sean Mooney (@sdmooney) | UW
 
 ## Team members 
 
-No action required here, a list of team members will be imported and linked below.
-
-See https://github.com/data2health/project-repo-template/tree/master/team.md
+Team members can be found [here](https://github.com/data2health/data-quality/blob/master/Team.md)
 
 ## Repositories
  n/a
