@@ -1,1 +1,1 @@
-stub
+By summarizing our set of tests as a core set of recommendations for data quality testing, CTSAs can both adopt these recommended tests through their own proprietary methods within biomedical informatics cores and/or give out these recommendations to researchers who received these datasets. 
