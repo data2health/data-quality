@@ -25,7 +25,11 @@ Sean Mooney (@sdmooney) | UW
 Team members can be found [here](https://github.com/data2health/data-quality/blob/master/Team.md)
 
 ## Repositories
+ Originally DQe-c Tool
 https://github.com/data2health/DQe-c
+
+ Ongoing Re-Engineering of DQe-c Tool
+https://github.com/data2health/DQe-c-v2
 
 ## Deliverables
 - Data quality testing tool (DQe-c) available to CTSA hubs and affiliates
