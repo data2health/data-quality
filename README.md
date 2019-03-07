@@ -34,7 +34,7 @@ https://github.com/data2health/DQe-c-v2
 ## Deliverables
 - Data quality testing tool (DQe-c) available to CTSA hubs and affiliates
 - Data quality testing tool standard operating procedures and documentation supporting local configuration
-- List of recommended minimum level data quality tests to begin assurance that data are worthy of sharing
+- List of recommended minimum level data quality tests to help with data sharing assurance
 
 
 ## Milestones 
