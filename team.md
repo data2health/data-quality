@@ -3,44 +3,61 @@
 ## Lead(s)
 Name | GitHub Handle | Site
 -- | -- | --
-Kari Stephens | [kstephen0909](https://github.com/kstephen0909) | UW
+kstephen@uw.edu Kari | [UW](UW) | Co-Investigator
 
 ## Contributor(s)
 Name | GitHub Handle | Site
 -- | -- | --
-Timothy Bergquist | [trberg](https://github.com/trberg) | UW
-Christopher Chute | [cgchute](https://github.com/cgchute) | JHU
-Connor Cook | [cgcook](https://github.com/cgcook) | OHSU
-David Dorr | [davedorr9](http://github.com/davedorr9) | OHSU
-Harsha Ekanayake | [hpitawela](https://github.com/hpitawela) | Iowa
-Ken Gersing | [KenGersing](https://github.com/KenGersing) | NIH
-Justin Guinney | [jguinney](http://github.com/jguinney) | Sage
-Raju Hemadri | [rajuhemadri](https://github.com/rajuhemadri) | NCATS
-Sean Mooney | [sdmooney](http://github.com/sdmooney) | UW
-Philip Payne | [prpayne5](http://github.com/prpayne5) | WashU
-Srini Rao | [srinirao55](http://github.com/srinirao55) | NIH
-Juliane Schneider | [pitviper6](http://github.com/pitviper6) | Harvard
-Ali Torkamani | [atorkama](https://github.com/atorkama) | Scripps
-Nicole Weiskopf | [weiskopf](http://github.com/weiskopf) | OHSU
-Adam Wilcox | [abwilcox](http://github.com/abwilcox) | UW
-Jiwen Xin | [kevinxin90](https://github.com/kevinxin90) | Scripps
-Liz Zampino | [ezampino](https://github.com/ezampino) | UW
+nranderson@ucdavis.edu Nick | [UCDavisHealth](UCDavisHealth) | 
+trberg@uw.edu Timothy | [UW](UW) | Developer and administrator
+chute@jhu.edu Christopher | [JHU](JHU) | coPI
+dorrd@ohsu.edu David | [OHSU](OHSU) | Site PI
+elkinp@buffalo.edu Peter | [UBuffalo](UBuffalo) | PI
+tsgal@vcu.edu Tamas | [CCTR](CCTR) | 
+Kenneth.Gersing@nih.gov Ken | [NCATS](NCATS) | Project Scientist
+ieo9@cdc.gov Aaron | [DVH](CDC/DVH) | Technical Advisor
+raju.hemadri@nih.gov Raju | [NCATS](NCATS) | Technical Architect
+sdmooney@uw.edu Sean | [UW](UW) | PD
+prpayne@wustl.edu Philip | [WashU](WashU) | Site PI
+srini.rao@adeptia.com Srini | [NCATS](NCATS) | Enterprise Architect
+andrey.rzhetsky@uchicago.edu Andrey | [UChicago](UChicago) | 
+Juliane_Schneider@hms.harvard.edu Juliane | [Harvard](Harvard) | eagle-i representative, ontologist
+btaylor@mcw.edu Bradley | [MCW](MCW) | 
+umit.topaloglu@wakehealth.edu Umit | [Wakehealth](Wakehealth) | 
+atorkama@scripps.edu Ali | [Scripps](Scripps) | Adviser, Data Provider
+Philip_Trevvett@hms.harvard.edu Philip | [Harvard](Harvard) | 
+weiskopf@ohsu.edu Nicole | [OHSU](OHSU) | Lifecourse DTF liason and contributor on data quality project
+abwilcox@uw.edu Adam | [UW](UW) | Co-Investigator
+awilliams15@tuftsmedicalcenter.org Andrew | [Tufts](Tufts) | Varies depending on project
+kevinxin@scripps.edu Jiwen | [Scripps](Scripps) | Staff Scientist
+ezampino@uw.edu Liz | [UW](UW) | Project Manager
 
 ## Mailing list only
 Name | GitHub Handle | Site
 -- | -- | --
-Matt Baumann | [mattbaumann1](http://github.com/mattbaumann1) | Northwestern
-Christopher Chute | [cgchute](https://github.com/cgchute) | JHU
-David Ellison | [dhekidney](http://github.com/dhekidney) | OHSU
-Shahim Essaid | [ShahimEssaid](http://github.com/ShahimEssaid) | OHSU
-Diane Keogh | [gibhub.com](http://gibhub.com) | Harvard
-Sean Mooney | [sdmooney](http://github.com/sdmooney) | UW
-Milen Nikolov | [milen-sage](https://github.com/milen-sage) | Sage
-Philip Payne | [prpayne5](http://github.com/prpayne5) | WashU
-Thomas Schaffter | [tschaffter](https://github.com/tschaffter) | Sage
-Pamela Shaw | [bioscibrarian](https://github.com/bioscibrarian) | Northwestern
-Eric Sid | [ericsid](https://github.com/ericsid) | NCATS
-Harold Solbrig | [hsolbrig](http://github.com/hsolbrig) | JHU
-Ali Torkamani | [atorkama](https://github.com/atorkama) | Scripps
-Xinzhi Zhang | [NCATS2019](https://github.com/NCATS2019) | NCATS
+Matthew.baumann@northwestern.edu Matt | [Northwestern](Northwestern) | Developer
+chute@jhu.edu Christopher | [JHU](JHU) | coPI
+cook.cd2h@gmail.com Connor | [OHSU](OHSU) | Program Coordinator
+ellisond@ohsu.edu David | [OHSU](OHSU) | co-investigator
+essaids@ohsu.edu Shahim | [OHSU](OHSU) | Semantic engineer 
+JFeccount@gmail.com Joseph | [Icahn](Icahn) | 
+pfranci4@jhu.edu Tricia | [JHU](JHU) | Project Manager
+tsgal@vcu.edu Tamas | [CCTR](CCTR) | 
+justin.guinney@sagebase.org Justin | [Sage](Sage) | PD
+diane_keogh@hms.harvard.edu Diane | [Harvard](Harvard) | Advisor
+boyd-knosp@uiowa.edu Boyd | [Iowa](Iowa) | 
+sdmooney@uw.edu Sean | [UW](UW) | PD
+nbparikh@ucdavis.edu Nitin | [UCDavisHealth](UCDavisHealth) | 
+prpayne@wustl.edu Philip | [WashU](WashU) | Site PI
+srojevsky@tuftsmedicalcenter.org Svetlana | [Tufts](Tufts) | varies depending on a project
+eugsadhu@uic.edu Eugene | [UIC](UIC) | 
+thomas.schaffter@sagebionetworks.org Thomas | [Sage](Sage) | Challenge Organization, IT/Cloud
+p-shaw2@northwestern.edu Pamela | [Northwestern](Northwestern) | Education, BioData Club, Open Science
+eric.sid@nih.gov Eric | [NCATS](NCATS) | NCATS/ORDR Collaborator
+solbrig@jhu.edu Harold | [JHU](JHU) | Other
+juliansolway@gmail.com Julian | [UChicago](UChicago) | 
+btaylor@mcw.edu Bradley | [MCW](MCW) | 
+atorkama@scripps.edu Ali | [Scripps](Scripps) | Adviser, Data Provider
+awilliams15@tuftsmedicalcenter.org Andrew | [Tufts](Tufts) | Varies depending on project
+xinzhi.zhang@nih.gov Xinzhi | [NCATS](NCATS) | Program Officer
 
