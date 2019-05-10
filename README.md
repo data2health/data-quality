@@ -19,7 +19,7 @@ Kari Stephens (@kstephen0909) | UW | Sean Mooney (@sdmooney)
 Lead(s) (github handle) | Site
 ----------|--------------|
 Kari Stephens (@kstephen0909) | UW
-Sean Mooney (@sdmooney) | UW
+Adam Wilcox (@abwilcox) | UW
 
 
 ## Team members 
