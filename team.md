@@ -61,7 +61,7 @@ Yupu Liang | [github.com](http://github.com) | Rockefeller
 Lisa O'Keefe | [LisaOKeefe1](https://github.com/LisaOKeefe1) | Northwestern
 Laura Paglione | [lpaglione](https://github.com/lpaglione) | Spherical
 Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
-Steve Patterson | [github.com.](http://github.com.) | #N/A
+Steve Patterson | [github.com.](http://github.com.) | iTHRIV
 Justin Ramsdill | [ramsdill](http://github.com/ramsdill) | OHSU
 Rose Relevo | [RoseRelevo](https://github.com/RoseRelevo) | OHSU
 Svetlana Rojevsky | [github.com](http://github.com) | Tufts
