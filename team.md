@@ -36,6 +36,7 @@ Liz Zampino | [ezampino](https://github.com/ezampino) | UW
 ## Mailing list only
 Name | GitHub Handle | Site
 -- | -- | --
+Chris Amos | [github.com](http://github.com) | Baylor
 Michael Bales | [michaelbales1](http://github.com/michaelbales1) | Cornell
 Tom Campion | [github.com](http://github.com) | Cornell
 Jack Chang | [ab2cw](https://github.com/ab2cw) | URMC
@@ -60,6 +61,7 @@ Yupu Liang | [github.com](http://github.com) | Rockefeller
 Lisa O'Keefe | [LisaOKeefe1](https://github.com/LisaOKeefe1) | Northwestern
 Laura Paglione | [lpaglione](https://github.com/lpaglione) | Spherical
 Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
+Steve Patterson | [github.com.](http://github.com.) | #N/A
 Justin Ramsdill | [ramsdill](http://github.com/ramsdill) | OHSU
 Rose Relevo | [RoseRelevo](https://github.com/RoseRelevo) | OHSU
 Svetlana Rojevsky | [github.com](http://github.com) | Tufts
