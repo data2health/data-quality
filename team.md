@@ -58,7 +58,7 @@ Bernie LaSalle | [github.com](http://github.com) | UUtahHealth
 Albert Lai | [laialbert](https://github.com/laialbert) | WashU
 Harold Lehmann | [hlehmann17](https://github.com/hlehmann17) | JHU
 Yupu Liang | [github.com](http://github.com) | Rockefeller
-Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | #N/A
+Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | UPenn
 Lisa O'Keefe | [LisaOKeefe1](https://github.com/LisaOKeefe1) | Northwestern
 Laura Paglione | [lpaglione](https://github.com/lpaglione) | Spherical
 Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
