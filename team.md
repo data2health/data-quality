@@ -51,6 +51,7 @@ Randy Grout | [randallgrout](https://github.com/randallgrout) | Indiana
 Justin Guinney | [jguinney](http://github.com/jguinney) | Sage
 Melissa Haendel | [mellybelly](http://github.com/mellybelly) | OHSU
 Kristi Holmes | [kristiholmes](http://github.com/kristiholmes) | Northwestern
+Steve Johnson | [github.com](http://github.com) | NYU
 Diane Keogh | [gibhub.com](http://gibhub.com) | Harvard
 Boyd Knosp | [boydknosp](http://github.com/boydknosp) | Iowa
 Brenda Kostelecky | [bdkostelecky](http://github.com/bdkostelecky) | Hutch
@@ -72,6 +73,7 @@ Rob Schuff | [schuffr](https://github.com/schuffr) | OHSU
 Pamela Shaw | [bioscibrarian](https://github.com/bioscibrarian) | Northwestern
 Tony Solomonides | [github.com](http://github.com) | UChicago
 Julian Solway | [jsolway](http://github.com/jsolway) | UChicago
+Juan Suarez | [github.com](http://github.com) | NYU
 Alfred Vitale | [github.com](http://github.com) | URMC
 Sam Volchenboum | [volcs0](https://github.com/volcs0) | UChicago
 DuWayne Willett | [duwaynewillett](https://github.com/duwaynewillett) | UTSouthwestern
