@@ -69,8 +69,10 @@ Brenda Kostelecky | [bdkostelecky](http://github.com/bdkostelecky) | Hutch
 Patricia Kovatch | [](http://github.com/) | MountSinai
 Bernie LaSalle | [github.com](http://github.com) | UUtahHealth
 Albert Lai | [laialbert](https://github.com/laialbert) | WashU
+Rebecca Laird | [github.com](http://github.com) | CLIC
 Harold Lehmann | [hlehmann17](https://github.com/hlehmann17) | JHU
 Yupu Liang | [github.com](http://github.com) | Rockefeller
+Prasanth Manukonda | [github.com](http://github.com) | Rockefeller
 Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | UPenn
 Arman Mikaili | [](https://github.com/amikaili/) | Iowa
 Eric Miller | [squishymedia](https://github.com/squishymedia) | SquishyMedia
